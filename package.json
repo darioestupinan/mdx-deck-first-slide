@@ -1,0 +1,23 @@
+{
+  "name": "mdx-deck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mdx-deck": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "mdx-deck ./deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darioestupinan/mdx-deck-first-slide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darioestupinan/mdx-deck-first-slide/issues"
+  },
+  "homepage": "https://github.com/darioestupinan/mdx-deck-first-slide#readme"
+}
